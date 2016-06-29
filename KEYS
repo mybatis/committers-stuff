@@ -13,11 +13,8 @@ MyBatis Developers:
 
 ************************************ PLEASE NOTE **********************************************************
 
-        Edit this file in SVN at
-        https://mybatis.googlecode.com/svn/committers/KEYS
-
-        N.B. use a command such as the following to check it out without downloading every project:
-        svn co https://mybatis.googlecode.com/svn/committers
+        This file lives at GitHub in
+        https://github.com/mybatis/committers-stuff
 
 ************************************************************************************************************
 pub   1024D/41A0D191 2010-02-06
@@ -283,4 +280,40 @@ OJRO+MnSX9YwWt6Arbq2c5mhXUp/rbEXSnJSxIzDLLxwFlLfIgxkjnOpBfuLTcwA
 d+FoifJOpMKAGFVBErnIQToMdZL8GbE+hUiR5Pu8sXcXj3gs3jwRue+DXUv+xcRc
 nc5jBGT94KkKDsivmdPbcwEC/0WYsOA5jgxiuX6AAg==
 =Og6k
+-----END PGP PUBLIC KEY BLOCK-----
+pub   2048R/E8F3E559 2016-06-24
+uid       [ultimate] Jeff Butler <jeffgbutler@gmail.com>
+sig 3        E8F3E559 2016-06-24  Jeff Butler <jeffgbutler@gmail.com>
+sub   2048R/DF00B53B 2016-06-24
+sig          E8F3E559 2016-06-24  Jeff Butler <jeffgbutler@gmail.com>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFdtZagBCACo3itJK2mQAGeloLOyxOsmxzOUNnv+6gx/dMtwdZ1z23E6ArIU
+A6wKMSlV2FJd7rXTDg83PpUk2e6PT6sGrJ6ytpukYrte1PBvwBzPAwlVZK15zLw+
+E86VnzwvUPEq5d/wMeG/IehTsw/DmWq6oilA7aBLDJ90DV8jLXdM3H6Cyed4kMqK
+m/QyJJuSmX+nOhtnNj4Zb0f8Vtz73W0Y8L2Ghzi65/7JiCMifw2WQeETevfHzNIN
+nCKtDw8gQoZUgCp4bKO2yNPiu37AE+SOi9JmjOccZJL8YZ5JKLWscGi7CCs1mA9m
+wWmq79sJWcToJIreUoUX8nAQZh941zd7X7CLABEBAAG0I0plZmYgQnV0bGVyIDxq
+ZWZmZ2J1dGxlckBnbWFpbC5jb20+iQE4BBMBAgAiBQJXbWWoAhsDBgsJCAcDAgYV
+CAIJCgsEFgIDAQIeAQIXgAAKCRBDLYrl6PPlWV1GB/9E5WGvMgBbZe9MkS/DsKrl
+aBlpM47JPhk4SlMXJpifahOfO+BEjvVYZEbWO/8W2rud1nHXqfmuUhBa6C09GoBv
+O+HthtcMSOI6+dqK+aTMKmb1/bp4VFZmxFAfsmvOixWbcR6OIITudAZtMylTh9Em
+jHoJJU0VCkvZvYaPM197JsheMzs9jMJNVfkC9YN6GFIxnGBkPDE0bSuJF+0uquXm
+UxCbcd0yUfsNxKRhpyFdVJZcCoKeL9O0bA7+SplL8lwsplBZZy9Ccv9KmWSkIis6
+KLveXctupk10yFqmzUrl6Nj5ai7FRp6Xd6/ly4zIEXBP6Ju320OHX4ODeMnmT6tm
+uQENBFdtZagBCAC5HxaOxl/IBLOb8X6QM/6iDhJwV9NEAJ/8HCSE+kHHuGm54IkM
+gbDlopCdxR8mv3qvFNjXniOFnE/h0rpM+BPvALSJIah5hI/7stCW3CRWCIDcR6hn
+D9I2S5LtXxTCS9KMzDaD2L6HSr8xs6LnZD+Kq6zhbquF8rDOFSRr2giWachbCKms
+epM7A9lF7IeF/qyQP1yB2PcUhb4jVpT8A+vtIxQmff9VOdzXM351/Tz43rkU4hLz
+pxWsnZ1k3Eeh+vc5NYvTMaXAeqmOrPNYoWC/wQwPyb/ozl2F3thqLUPsKXzA0NGo
+kzs+vZBbkEoStryi+BBcfpuil2HZlj75+tO1ABEBAAGJAR8EGAECAAkFAldtZagC
+GwwACgkQQy2K5ejz5VnYhwf8D3InY/FP0B74XPdgoRIB8yi58cu6aKuiui9G5khF
+6iao9D+LNRcQUSEPUD1kRPG888it1annn4w6RF6yZIk3oWqvj1JWHx2ATJgY0SWb
+dtSVO1uS9oNmiZyxU4akV1xOOml92IYgj8GzX23xozUVaypZWdtilv+6wrsh62Tm
+X1ks3YM/vDO6MbkEOvq9wZFYi6i3ieAK/d0dcI5ey1MxDn6RvpZLwh8JzB7kUGnO
++qoLqMJviRyrFLhyujAz3yOwvMsS1jNDJs+ENlFDvDCTWGkdeHMeU+KTAchBdryg
+NKd5MapJihLrlE1AODTLbOYmR9c5ZhoOT05Q1/4QjXowgw==
+=onqo
 -----END PGP PUBLIC KEY BLOCK-----
