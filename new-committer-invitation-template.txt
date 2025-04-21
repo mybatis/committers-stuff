@@ -9,7 +9,7 @@ It does tend to make one even more committed. You will probably find that you sp
 
 Of course, you can decline and instead remain as a contributor, participating as you do now.
 
-If you intend accepting the invitation, please download the ICLA on http://mybatis.googlecode.com/committers/ICLA,
+If you intend accepting the invitation, please download the ICLA on https://github.com/mybatis/committers-stuff/blob/master/ICLA,
 print, sign and send a scanned copy to Clinton Begin (clinton [dot] begin [at] gmail [dot] com)
 or Simone Tripodi (simone [dot] tripodi [at] gmail [dot] com)
 
